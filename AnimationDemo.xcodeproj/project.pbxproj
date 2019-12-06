@@ -105,7 +105,6 @@
 		30F250A6239AABE500D881E6 = {
 			isa = PBXGroup;
 			children = (
-				30F250CC239AAC7B00D881E6 /* Sample.swift */,
 				30F250B1239AABE600D881E6 /* AnimationDemo */,
 				30F250B0239AABE600D881E6 /* Products */,
 				30F250CB239AAC7B00D881E6 /* AnimationDemo-Bridging-Header.h */,
@@ -123,6 +122,7 @@
 		30F250B1239AABE600D881E6 /* AnimationDemo */ = {
 			isa = PBXGroup;
 			children = (
+				30F250CC239AAC7B00D881E6 /* Sample.swift */,
 				30F250CE239AB7C800D881E6 /* Spring */,
 				30F250B2239AABE600D881E6 /* AppDelegate.h */,
 				30F250B3239AABE600D881E6 /* AppDelegate.m */,

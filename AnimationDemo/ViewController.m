@@ -18,6 +18,10 @@
 - (void)viewDidLoad {
   [super viewDidLoad];
 
+  // test swfit method
+  Foo *foo = [Foo new];
+  [foo greeting];
+
   CGSize screenSize = self.view.frame.size;
   CGFloat cubeSize = 50.0f;
   SpringView *springView = [[SpringView alloc]
